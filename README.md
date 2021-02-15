@@ -6,6 +6,9 @@ A simple implementation of the LieConv ([arXiv](https://arxiv.org/abs/2002.12880
 2. PyTorch Geometric
 3. LieConv Lifting Procedure [Github](https://github.com/mfinzi/LieConv)
 
+
+Please cite this repository if you wish to use this implementation in your research work.
+
 ```
 @misc{LieConv_PyG,
   author = {Jai Bardhan},
